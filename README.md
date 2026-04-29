@@ -222,24 +222,7 @@ Languages:    Python · Bash · VBA · YAML · HCL
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-</div>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zertannax/zertannax/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zertannax/zertannax/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zertannax/zertannax/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-</div>
-
 <!-- ANIMATED SEPARATOR -->
-<img src="animated-separator.gif" width="100%" alt="separator" />
-
----
 
 <div align="center">
 
